@@ -1,0 +1,67 @@
+body {
+    text-align: center;
+	background-image: url('Fuji.jpg');.
+	background-repeat: no-repeat;
+	background-size: 100% ;
+}
+
+ol{
+	color:white;
+	font-size: 20px;
+}
+ul{
+	color:white;
+	font-size: 20px;
+}
+p1{
+	font-size: 40px;
+}
+il{
+	color:white;
+	font-size: 20px;
+}
+p2{
+	font-size: 40px;
+}
+p3{
+	font-size: 40px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.aficciones{
+text-align: left;
+font-family: "Lucida Console", "Courier New", monospace;}
+
+.estudios{
+text-align: left;
+font-family: "Audiowide", sans-serif;}
+
+.trabajo{
+text-align: left;
+font-family: "Trirong", serif;
+text-shadow: 2px 2px 5px red;}
+
+.lugar de residencia{
+    color:white;
+	text-decoration: none;
+	text-shadow: 2px 2px 5px red;
+}
+a:hover, a:active{
+	color:white;
+	text-decoration: none;
+}
+a:visited{
+	color:green;
+	text-decoration: none;
+}
